@@ -1,0 +1,392 @@
+{
+    "20 Sep 2019": {
+        "pool A": [{
+            "team 1": "Russia",
+            "team 2": "Japan",
+            "local_time": "19:45",
+            "uk_time": "11:45",
+            "location": "Tokyo Stadium, Tokyo",
+        }],
+    },
+    "21 Sep 2019": {
+        "pool D": [{
+            "team 1": "Australia",
+            "team 2": "Fiji",
+            "local_time": "13:45",
+            "uk_time": "05:45",
+            "location": "Sapporo Dome, Sapporo",
+        }],
+        "pool C": [{
+            "team 1": "France",
+            "team 2": "Argentina",
+            "local_time": "16:15",
+            "uk_time": "08:15",
+            "location": "Tokyo Stadium, Tokyo",
+        }],
+        "pool B": [{
+            "team 1": "New Zealand",
+            "team 2": "South Africa",
+            "local_time": "18:45",
+            "uk_time": "10:45",
+            "location": "International Stadium Yokohama, Kanagawa Prefecture, Yokohama City",
+        }],
+    },
+    "22 Sep 2019": {
+        "pool B": [{
+            "team 1": "Italy",
+            "team 2": "Namibia",
+            "local_time": "14:15",
+            "uk_time": "06:15",
+            "location": "Hanazono Rugby Stadium, Osaka Prefecture, Higashiosaka City",
+        }],
+        "pool A": [{
+            "team 1": "Ireland",
+            "team 2": "Scotland",
+            "local_time": "16:45",
+            "uk_time": "08:45",
+            "location": "International Stadium Yokohama, Kanagawa Prefecture, Yokohama City",
+        }],
+        "pool C": [{
+            "team 1": "England",
+            "team 2": "Tonga",
+            "local_time": "19:15",
+            "uk_time": "11:15",
+            "location": "Sapporo Dome, Sapporo",
+        }],
+    },
+    "23 Sep 2019": {
+        "pool D": [{
+          "team 1": "Wales",
+          "team 2": "Georgia",
+          "local_time": "19:15",
+          "uk_time": "11:15",
+          "location": "City of Toyota Stadium, Aichi Prefecture, Toyota City",
+        }],
+    },
+    "24 Sep 2019": {
+        "pool A": [{
+          "team 1": "Russia",
+          "team 2": "Samoa",
+          "local_time": "19:15",
+          "uk_time": "11:15",
+          "location": "Kumagaya Rugby Stadium, Saitama Prefecture, Kumagaya City",
+        }],
+    },
+    "25 Sep 2019": {
+      "pool D": [{
+          "team 1": "Fiji",
+          "team 2": "Uruguay",
+          "local_time": "14:15",
+          "uk_time": "06:15",
+          "location": "Kamaishi Recovery Memorial Stadium, Iwate Prefecture, Kamaishi City",
+      }],
+    },
+    "26 Sep 2019": {
+        "pool B": [{
+          "team 1": "Italy",
+          "team 2": "Canada",
+          "local_time": "16:45",
+          "uk_time": "08:45",
+          "location": "Fukuoka Hakatanomori Stadium, Fukuoka Prefecture, Fukuoka City",
+        }],
+        "pool C": [{
+          "team 1": "England",
+          "team 2": "USA",
+          "local_time": "19:45",
+          "uk_time": "11:45",
+          "location": "Kobe Misaki Stadium, Kobe City",
+        }],
+    },
+    "28 Sep 2019": {
+      "pool C": [{
+          "team 1": "Argentina",
+          "team 2": "Tonga",
+          "local_time": "13:45",
+          "uk_time": "05:45",
+          "location": "Hanazono Rugby Stadium, Osaka Prefecture, Higashiosaka City",
+      }],
+      "pool A": [{
+          "team 1": "Japan",
+          "team 2": "Ireland",
+          "local_time": "16:15",
+          "uk_time": "08:15",
+          "location": "Shizuoka Stadium Ecopa, Shizuoka Prefecture",
+      }],
+      "pool B": [{
+          "team 1": "South Africa",
+          "team 2": "Namibia",
+          "local_time": "18:45",
+          "uk_time": "10:45",
+          "location": "City of Toyota Stadium, Aichi Prefecture, Toyota City",
+      }],
+    },
+    "29 Sep 2019": {
+      "pool D": [
+          {
+            "team 1": "Georgia",
+            "team 2": "Uruguay",
+            "uk_time": "06:15",
+            "local_time": "14:15",
+            "location": "Kumagaya Rugby Stadium, Saitama Prefecture, Kumagaya City",
+          },
+          {
+            "team 1": "Australia",
+            "team 2": "Wales",
+            "local_time": "16:45",
+            "uk_time": "08:45",
+            "location": "Tokyo Stadium, Tokyo",
+          },
+      ],
+    },
+    "30 Sep 2019": {
+      "pool A": [{
+          "team 1": "Scotland",
+          "team 2": "Samoa",
+          "local_time": "19:15",
+          "uk_time": "11:15",
+          "location": "Kobe Misaki Stadium, Kobe City",
+      }],
+    },
+    "2 Oct 2019": {
+      "pool C": [{
+          "team 1": "France",
+          "team 2": "USA",
+          "local_time": "16:45",
+          "uk_time": "08:45",
+          "location": "Fukuoka Hakatanomori Stadium, Fukuoka Prefecture, Fukuoka City",
+      }],
+      "pool B": [{
+          "team 1": "New Zealand",
+          "team 2": "Canada",
+          "local_time": "19:15",
+          "uk_time": "11:15",
+          "location": "Oita Stadium, Oita Prefecture",
+      }],
+    },
+    "3 Oct 2019": {
+      "pool D": [{
+          "team 1": "Georgia",
+          "team 2": "Fiji",
+          "local_time": "14:15",
+          "uk_time": "06:15",
+          "location": "Hanazono Rugby Stadium, Osaka Prefecture, Higashiosaka City",
+      }],
+      "pool A": [{
+          "team 1": "Ireland",
+          "team 2": "Russia",
+          "local_time": "19:15",
+          "uk_time": "11:15",
+          "location": "Kobe Misaki Stadium, Kobe City",
+      }],
+    },
+    "4 Oct 2019": {
+      "pool B": [{
+          "team 1": "South Africa",
+          "team 2": "Italy",
+          "local_time": "18:45",
+          "uk_time": "10:45",
+          "location": "Shizuoka Stadium Ecopa, Shizuoka Prefecture",
+      }],
+    },
+    "5 Oct 2019": {
+      "pool D": [{
+          "team 1": "Australia",
+          "team 2": "Uruguay",
+          "local_time": "14:15",
+          "uk_time": "06:15",
+          "location": "Oita Stadium, Oita Prefecture",
+      }],
+      "pool C": [{
+          "team 1": "England",
+          "team 2": "Argentina",
+          "local_time": "17:00",
+          "uk_time": "09:00",
+          "location": "Tokyo Stadium, Tokyo",
+      }],
+      "pool A": [{
+          "team 1": "Japan",
+          "team 2": "Samoa",
+          "uk_time": "11:30",
+          "local_time": "19:30",
+          "location": "City of Toyota Stadium, Aichi Prefecture, Toyota City",
+      }],
+    },
+    "6 Oct 2019": {
+      "pool B": [{
+          "team 1": "New Zealand",
+          "team 2": "Namibia",
+          "local_time": "13:45",
+          "uk_time": "05:45",
+          "location": "Tokyo Stadium, Tokyo",
+      }],
+      "pool C": [{
+          "team 1": "France",
+          "team 2": "Tonga",
+          "local_time": "16:45",
+          "uk_time": "08:45",
+          "location": "Kumamoto Stadium, Kumamoto Prefecture, Kumamoto City",
+      }],
+    },
+    "8 Oct 2019": {
+      "pool B": [{
+          "team 1": "South Africa",
+          "team 2": "Canada",
+          "local_time": "19:15",
+          "uk_time": "11:15",
+          "location": "Kobe Misaki Stadium, Kobe City",
+      }],
+    },
+    "9 Oct 2019": {
+        "pool C": [{
+            "team 1": "Argentina",
+            "team 2": "USA",
+            "local_time": "13:45",
+            "uk_time": "05:45",
+            "location": "Kumagaya Rugby Stadium, Saitama Prefecture, Kumagaya City",
+        }],
+        "pool A": [{
+            "team 1": "Scotland",
+            "team 2": "Russia",
+            "local_time": "16:15",
+            "uk_time": "08:15",
+            "location": "Shizuoka Stadium Ecopa, Shizuoka Prefecture",
+        }],
+        "pool D": [{
+            "team 1": "Wales",
+            "team 2": "Fiji",
+            "local_time": "18:45",
+            "uk_time": "10:45",
+            "location": "Oita Stadium, Oita Prefecture",
+        }],
+    },
+    "11 Oct 2019": {
+        "pool D": [{
+            "team 1": "Australia",
+            "team 2": "Georgia",
+            "local_time": "19:15",
+            "uk_time": "11:15",
+            "location": "Shizuoka Stadium Ecopa, Shizuoka Prefecture",
+        }],
+    },
+    "12 Oct 2019": {
+      "pool B": [{
+          "team 1": "New Zealand",
+          "team 2": "Italy",
+          "local_time": "13:45",
+          "uk_time": "05:45",
+          "location": "City of Toyota Stadium, Aichi Prefecture, Toyota City",
+      }],
+      "pool C": [{
+          "team 1": "England",
+          "team 2": "France",
+          "local_time": "17:15",
+          "uk_time": "09:15",
+          "location": "International Stadium Yokohama, Kanagawa Prefecture, Yokohama City",
+      }],
+      "pool A": [{
+          "team 1": "Ireland",
+          "team 2": "Samoa",
+          "local_time": "19:45",
+          "uk_time": "11:45",
+          "location": "Fukuoka Hakatanomori Stadium, Fukuoka Prefecture, Fukuoka City",
+      }],
+    },
+    "13 Oct 2019": {
+      "pool A": [{
+          "team 1": "Japan",
+          "team 2": "Scotland",
+          "local_time": "19:45",
+          "uk_time": "11:45",
+          "location": "International Stadium Yokohama, Kanagawa Prefecture, Yokohama City",
+      }],
+      "pool B": [{
+          "team 1": "Namibia",
+          "team 2": "Canada",
+          "local_time": "12:15",
+          "uk_time": "04:15",
+          "location": "Kamaishi Recovery Memorial Stadium, Iwate Prefecture, Kamaishi City",
+      }],
+      "pool C": [{
+          "team 1": "USA",
+          "team 2": "Tonga",
+          "local_time": "14:45",
+          "uk_time": "06:45",
+          "location": "Hanazono Rugby Stadium, Osaka Prefecture, Higashiosaka City",
+      }],
+      "pool D": [{
+          "team 1": "Wales",
+          "team 2": "Uruguay",
+          "local_time": "17:15",
+          "uk_time": "09:15",
+          "location": "Kumamoto Stadium, Kumamoto Prefecture, Kumamoto City",
+      }],
+    },
+    "19 Oct 2019": {
+      "winner pool D vs runner up pool C": [{
+          "team 1": "",
+          "team 2": "",
+          "local_time": "16:15",
+          "uk_time": "08:15",
+          "location": "Oita Stadium, Oita Prefecture",
+      }],
+      "winnner pool B vs runner up pool A": [{
+          "team 1": "",
+          "team 2": "",
+          "local_time": "19:15",
+          "uk_time": "11:15",
+          "location": "Tokyo Stadium, Tokyo",
+      }],
+    },
+    "20 Oct 2019": {
+      "winner pool D vs winner pool C": [{
+          "team 1": "",
+          "team 2": "",
+          "local_time": "16:15",
+          "uk_time": "08:15",
+          "location": "Oita Stadium, Oita Prefecture",
+      }],
+      "winner pool A vs winner pool B": [{
+          "team 1": "",
+          "team 2": "",
+          "local_time": "19:15",
+          "uk_time": "11:15",
+          "location": "Tokyo Stadium, Tokyo",
+      }],
+    },
+    "26 Oct 2019": {
+      "winner quarter-final 1 vs winner quarter-final 2": [{
+          "team 1": "",
+          "team 2": "",
+          "local_time": "17:00",
+          "uk_time": "09:00",
+          "location": "International Stadium Yokohama, Kanagawa Prefecture, Yokohama City",
+      }],
+    },
+    "27 Oct 2019": {
+      "winner quarter-final 3 vs winner quarter-final 4": [{
+          "team 1": "",
+          "team 2": "",
+          "local_time": "18:00",
+          "uk_time": "09:00",
+          "location": "International Stadium Yokohama, Kanagawa Prefecture, Yokohama City",
+      }],
+    },
+    "1 Nov 2019": {
+      "loser semi-final 1 vs loser semi-final 2": [{
+          "team 1": "",
+          "team 2": "",
+          "local_time": "18:00",
+          "uk_time": "09:00",
+          "location": "Tokyo Stadium, Tokyo",
+      }],
+    },
+    "2 Nov 2019": {
+      "winner semi-final 1 vs winner semi-final 2": [{
+          "team 1": "",
+          "team 2": "",
+          "local_time": "16:15",
+          "uk_time": "08:15",
+          "location": "International Stadium Yokohama, Kanagawa Prefecture, Yokohama City",
+      }],
+    },
+}
