@@ -26,4 +26,4 @@ Data structure is as such:
   }
 }
 ```
-`* - denotes that this will be an empty string until data is backfilled`
+`* - denotes that this will be null until data is backfilled`
