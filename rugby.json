@@ -9,7 +9,7 @@
             "score_team_1": 10,
             "score_team_2": 30,
             "winner": "Japan",
-            "tie": false,
+            "tie": "false",
         }],
     },
     "21 Sep 2019": {
@@ -22,7 +22,7 @@
             "score_team_1": 39,
             "score_team_2": 21,
             "winner": "Australia",
-            "tie": false,
+            "tie": "false",
         }],
         "pool C": [{
             "team 1": "France",
@@ -33,7 +33,7 @@
             "score_team_1": 23,
             "score_team_2": 21,
             "winner": "France",
-            "tie": false,
+            "tie": "false",
         }],
         "pool B": [{
             "team 1": "New Zealand",
@@ -44,7 +44,7 @@
             "score_team_1": 23,
             "score_team_2": 13,
             "winner": "New Zealand",
-            "tie": false,
+            "tie": "false",
         }],
     },
     "22 Sep 2019": {
@@ -57,7 +57,7 @@
             "score_team_1": 47,
             "score_team_2": 22,
             "winner": "Italy",
-            "tie": false,
+            "tie": "false",
         }],
         "pool A": [{
             "team 1": "Ireland",
@@ -68,7 +68,7 @@
             "score_team_1": 27,
             "score_team_2": 3,
             "winner": "Ireland",
-            "tie": false,
+            "tie": "false",
         }],
         "pool C": [{
             "team 1": "England",
@@ -79,7 +79,7 @@
             "score_team_1": 35,
             "score_team_2": 3,
             "winner": "England",
-            "tie": false,
+            "tie": "false",
         }],
     },
     "23 Sep 2019": {
