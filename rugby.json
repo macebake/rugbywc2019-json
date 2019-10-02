@@ -219,17 +219,17 @@
           "tie": false,
       }],
     },
-    "2 Oct 2019": {
+    "02 Oct 2019": {
       "pool C": [{
           "team 1": "France",
           "team 2": "USA",
           "local_time": "16:45",
           "uk_time": "08:45",
           "location": "Fukuoka Hakatanomori Stadium, Fukuoka Prefecture, Fukuoka City",
-          "score_team_1": null,
-          "score_team_2": null,
-          "winner": null,
-          "tie": null,
+          "score_team_1": 33,
+          "score_team_2": 9,
+          "winner": "France",
+          "tie": false,
       }],
       "pool B": [{
           "team 1": "New Zealand",
@@ -237,13 +237,13 @@
           "local_time": "19:15",
           "uk_time": "11:15",
           "location": "Oita Stadium, Oita Prefecture",
-          "score_team_1": null,
-          "score_team_2": null,
-          "winner": null,
-          "tie": null,
+          "score_team_1": 63,
+          "score_team_2": 0,
+          "winner": "New Zealand",
+          "tie": false,
       }],
     },
-    "3 Oct 2019": {
+    "03 Oct 2019": {
       "pool D": [{
           "team 1": "Georgia",
           "team 2": "Fiji",
@@ -267,7 +267,7 @@
           "tie": null,
       }],
     },
-    "4 Oct 2019": {
+    "04 Oct 2019": {
       "pool B": [{
           "team 1": "South Africa",
           "team 2": "Italy",
@@ -280,7 +280,7 @@
           "tie": null,
       }],
     },
-    "5 Oct 2019": {
+    "05 Oct 2019": {
       "pool D": [{
           "team 1": "Australia",
           "team 2": "Uruguay",
@@ -315,7 +315,7 @@
           "tie": null,
       }],
     },
-    "6 Oct 2019": {
+    "06 Oct 2019": {
       "pool B": [{
           "team 1": "New Zealand",
           "team 2": "Namibia",
@@ -339,7 +339,7 @@
           "tie": null,
       }],
     },
-    "8 Oct 2019": {
+    "08 Oct 2019": {
       "pool B": [{
           "team 1": "South Africa",
           "team 2": "Canada",
@@ -352,7 +352,7 @@
           "tie": null,
       }],
     },
-    "9 Oct 2019": {
+    "09 Oct 2019": {
         "pool C": [{
             "team 1": "Argentina",
             "team 2": "USA",
