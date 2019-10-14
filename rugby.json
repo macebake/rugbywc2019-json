@@ -482,9 +482,9 @@
       }],
     },
     "19 Oct 2019": {
-      "winner pool D vs runner up pool C": [{
-          "team 1": "",
-          "team 2": "",
+      "Quarter-Finals Pool D Winner vs Pool C Runner-Up": [{
+          "team 1": "England",
+          "team 2": "Australia",
           "local_time": "16:15",
           "uk_time": "08:15",
           "location": "Oita Stadium, Oita Prefecture",
@@ -493,9 +493,9 @@
           "winner": null,
           "tie": null,
       }],
-      "winnner pool B vs runner up pool A": [{
-          "team 1": "",
-          "team 2": "",
+      "Quarter-Finals Pool B Winner vs Pool A Runner-Up": [{
+          "team 1": "New Zealand",
+          "team 2": "Ireland",
           "local_time": "19:15",
           "uk_time": "11:15",
           "location": "Tokyo Stadium, Tokyo",
@@ -506,9 +506,9 @@
       }],
     },
     "20 Oct 2019": {
-      "winner pool D vs winner pool C": [{
-          "team 1": "",
-          "team 2": "",
+      "Quarter-Finals Pool D Winner vs Pool C Winner": [{
+          "team 1": "Wales",
+          "team 2": "France",
           "local_time": "16:15",
           "uk_time": "08:15",
           "location": "Oita Stadium, Oita Prefecture",
@@ -517,9 +517,9 @@
           "winner": null,
           "tie": null,
       }],
-      "winner pool A vs winner pool B": [{
-          "team 1": "",
-          "team 2": "",
+      "Quarter-Finals Pool A Winner vs Pool B Winner": [{
+          "team 1": "Japan",
+          "team 2": "South Africa",
           "local_time": "19:15",
           "uk_time": "11:15",
           "location": "Tokyo Stadium, Tokyo",
