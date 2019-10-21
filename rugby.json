@@ -488,10 +488,10 @@
           "local_time": "16:15",
           "uk_time": "08:15",
           "location": "Oita Stadium, Oita Prefecture",
-          "score_team_1": null,
-          "score_team_2": null,
-          "winner": null,
-          "tie": null,
+          "score_team_1": 40,
+          "score_team_2": 16,
+          "winner": "England",
+          "tie": false,
       }],
       "Quarter-Finals Pool B Winner vs Pool A Runner-Up": [{
           "team 1": "New Zealand",
@@ -499,10 +499,10 @@
           "local_time": "19:15",
           "uk_time": "11:15",
           "location": "Tokyo Stadium, Tokyo",
-          "score_team_1": null,
-          "score_team_2": null,
-          "winner": null,
-          "tie": null,
+          "score_team_1": 46,
+          "score_team_2": 14,
+          "winner": "New Zealand",
+          "tie": false,
       }],
     },
     "20 Oct 2019": {
@@ -512,10 +512,10 @@
           "local_time": "16:15",
           "uk_time": "08:15",
           "location": "Oita Stadium, Oita Prefecture",
-          "score_team_1": null,
-          "score_team_2": null,
-          "winner": null,
-          "tie": null,
+          "score_team_1": 20,
+          "score_team_2": 19,
+          "winner": "Wales",
+          "tie": false,
       }],
       "Quarter-Finals Pool A Winner vs Pool B Winner": [{
           "team 1": "Japan",
@@ -523,16 +523,16 @@
           "local_time": "19:15",
           "uk_time": "11:15",
           "location": "Tokyo Stadium, Tokyo",
-          "score_team_1": null,
-          "score_team_2": null,
-          "winner": null,
-          "tie": null,
+          "score_team_1": 3,
+          "score_team_2": 26,
+          "winner": "South Africa",
+          "tie": false,
       }],
     },
     "26 Oct 2019": {
       "winner quarter-final 1 vs winner quarter-final 2": [{
-          "team 1": "",
-          "team 2": "",
+          "team 1": "England",
+          "team 2": "New Zealand",
           "local_time": "17:00",
           "uk_time": "09:00",
           "location": "International Stadium Yokohama, Kanagawa Prefecture, Yokohama City",
@@ -544,8 +544,8 @@
     },
     "27 Oct 2019": {
       "winner quarter-final 3 vs winner quarter-final 4": [{
-          "team 1": "",
-          "team 2": "",
+          "team 1": "Wales",
+          "team 2": "South Africa",
           "local_time": "18:00",
           "uk_time": "09:00",
           "location": "International Stadium Yokohama, Kanagawa Prefecture, Yokohama City",
@@ -556,7 +556,7 @@
       }],
     },
     "1 Nov 2019": {
-      "loser semi-final 1 vs loser semi-final 2": [{
+      "Second Place Match": [{
           "team 1": "",
           "team 2": "",
           "local_time": "18:00",
@@ -569,7 +569,7 @@
       }],
     },
     "2 Nov 2019": {
-      "winner semi-final 1 vs winner semi-final 2": [{
+      "Final": [{
           "team 1": "",
           "team 2": "",
           "local_time": "16:15",
